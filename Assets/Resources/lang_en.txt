@@ -1,0 +1,42 @@
+tit_play Play 					
+tit_help About 					
+tit_options Options 			
+tit_scores Scores 				
+tit_quit Quit 					
+tit_original Classic 			
+tit_time_trial Time Trial 		
+tit_survival Survival 			
+tit_combo_20 Combo 20 			
+tit_combo_mode Combo Mode 		
+tit_new_game New Game 			
+tit_continue Continue 			
+tit_yes Yes						
+tit_no No						
+tit_sound Sound:				
+tit_vibration Vibration:	
+tit_sound_ingame Sound				
+tit_vibration_ingame Vibration
+tit_restart Restart
+tit_help_ingame Help	
+tit_clear_data Clear Data		
+tit_on On						
+tit_off Off						
+tit_game_over Game Over			
+tit_new_high_score High Score	
+tit_void VOID
+tit_credits Credits
+tit_language Language
+txt_void VOID
+txt_choose_mode Select Game Mode															
+txt_continue Continue previous game or\nstart a new one?										
+txt_confirm_quit Are you sure\nyou want to quit?												
+txt_confirm_new Are you sure you\nwant to start a new game?\nYour previous save will be lost.	
+txt_game_options Adjust Game Options														
+txt_confirm_clear Saved games and High Scores\n will be erased. Proceed?						
+txt_choose_score Select the desired Score Table.											
+txt_game_over There are no more\nvalid moves.												
+txt_game_over_timed There is no more\ntime left.												
+txt_new_high_score You've achieved a new\nHigh Score:										
+txt_help CLASSIC: play until no move is left.\nTIME TRIAL: how many points in two minutes?\nSURVIVAL: 30 seconds; every Chunk adds time.\nCOMBO 20: 20 scoring moves. A swap that\nmakes no Chunk can wait for the next one.\nCOMBO MODE: such waiting swaps are earned,\none for every 25000 points.\n\nSCORES: Each Chunk is worth 100 points.\nConsecutive Chunks award an extra 100\npoints each. Each extra piece in a Chunk\ndoubles its value, so a 4 piece Chunk is\nworth 200, a 5 piece one 400 and so on.
+txt_choose_language Select Language
+txt_credits TwisTime© Natty Ride, 2012\nENGINEERING:\nRazvan Stancu\nART:\nAlexandra Ciobaca\nMake Ionescu\nGAME DESIGN:\nRazvan Stancu\nCristian Dinca\nGAME DIRECTION:\nCristian Dinca\nSPECIAL THANKS:\nAna Dascalu\nMihai Dascalu\nAndrei Rusu\nVictor Tivadar
